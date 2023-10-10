@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 
 # Ваш токен бота
-TOKEN = '5934353266:AAFbnT36znbxiLsaqixCl20VXA7jQmTC-7c'
+TOKEN = 'TELEGRAM-BOT-TOKEN'
 
-discord_link = "discord.com"
+discord_link = "DISCROD URL"
 
 # Створення об'єкту бота
 bot = telebot.TeleBot(TOKEN)
